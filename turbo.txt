@@ -1,0 +1,41 @@
+<html>
+  <body>
+    <a href="https://eda.yandex"target="_blank">eda.yandex</a>
+    <br>
+    <br>
+    <a         href="https://eda.yandex.ru"target="_blank">eda.yandex.ru</a>
+    <br>
+    <br>
+    <a href="https://eda.yandex.kz"target="_blank">eda.yandex.kz</a>
+    <br>
+    <br>
+    <a href="https://translate.yandex.ru"target="_blank">translate.yandex.ru</a>
+    <br>
+    <br>
+    <a 
+href="https://yandex.ru/pogoda"target="_blank">yandex.ru/pogoda</a>
+    <br>
+    <br>
+    <a 
+href="https://l7test.yandex.ru/pogoda"target="_blank">l7test.yandex.ru/pogoda</a>
+    <br>
+    <br>
+    <a 
+href="https://tap-afisha.yandex.ru"target="_blank">tap-afisha.yandex.ru</a>
+    <br>
+    <br>
+    <a 
+href="https://taxi.tap-tst.yandex.ru"target="_blank">taxi.tap-tst.yandex.ru</a>
+    <br>
+    <br>
+    <a 
+href="https://hyperstore-test.browser.yandex.ru"target="_blank">hyperstore-test.browser.yandex.ru</a>
+    <br>
+    <br>
+    <a 
+href="https://browser-pages-test.s3.mds.yandex.net/sampleapp"target="_blank">browser-pages-test.s3.mds.yandex.net/sampleapp</a>
+    <br>
+    <br>
+    <a 
+    <body>
+</html>
